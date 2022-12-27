@@ -38,6 +38,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Link to Video
 
+https://drive.google.com/file/d/1Z0BCYdfIsmVNNYlnnO5qE0J_RQteWTmG/view
+
 ## Screenshot
 
 ![Screenshot](./mongoDB.PNG)
